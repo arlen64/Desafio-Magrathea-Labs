@@ -40,5 +40,5 @@ Para executar o código fornecido neste repositório, siga as etapas abaixo:
 -
 
 Clone este repositório para o seu ambiente local.
-Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt.
+Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt. E
 Execute o script principal no VScode:
