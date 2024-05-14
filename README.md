@@ -26,12 +26,18 @@ Links importantes:
 - [Dados de Importações](https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_COMPLETA.zip)
 
 ## Resultados
-Após a implementação da minha solução, os resultados obtidos foram...
-
-[Descreva os resultados alcançados com sua solução]
+Após a implementação da minha solução, os resultados obtidos foram a exibição dos gráficos separadamente  <br />
+e ao final do código, um dashboard com os todos os gráficos requisitados.
 
 ## Como Executar
 Para executar o código fornecido neste repositório, siga as etapas abaixo:
+
+- Certifique-se de ter o Python instalado em seu ambiente. Este projeto foi desenvolvido usando Python 3.x.
+- instale o VsCode
+- instale a extenção jupyter no VScode, caso tenha duvidas na hora da instalação siga o tutorial: <br />
+  https://www.hashtagtreinamentos.com/jupyter-notebook-no-vscode-python?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAfQpwlWm5V68Q6j09bPEJ9P8GusIoLWf8EOyFRFkb4tZjsDuJkrHBoCATsQAvD_BwE 
+- Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt.
+-
 
 Clone este repositório para o seu ambiente local.
 Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt.
