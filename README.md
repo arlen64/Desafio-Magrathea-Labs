@@ -34,11 +34,11 @@ Para executar o código fornecido neste repositório, siga as etapas abaixo:
 
 - Certifique-se de ter o Python instalado em seu ambiente. Este projeto foi desenvolvido usando Python 3.x.
 - instale o VsCode
-- instale a extenção jupyter no VScode, caso tenha duvidas na hora da instalação siga o tutorial: <br />
+- instale a extenção jupyter no VScode, caso tenha dúvidas na hora da instalação, siga o tutorial: <br />
   https://www.hashtagtreinamentos.com/jupyter-notebook-no-vscode-python?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAfQpwlWm5V68Q6j09bPEJ9P8GusIoLWf8EOyFRFkb4tZjsDuJkrHBoCATsQAvD_BwE 
 - Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt.
 -
 
 Clone este repositório para o seu ambiente local.
 Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt.
-Execute o script principal com o seguinte comando:
+Execute o script principal no VScode:
