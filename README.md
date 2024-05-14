@@ -1,5 +1,5 @@
 # Resolução do Desafio de Engenharia de Dados
-Este repositório contém a minha solução para o desafio de engenharia de dados proposto por Magrathea Labs. O desafio original pode ser encontrado aqui. < br>
+Este repositório contém a minha solução para o desafio de engenharia de dados proposto por Magrathea Labs. O desafio original pode ser encontrado aqui. < /br>
 https://github.com/magrathealabs/desafio-engenharia-dados
 
 # Descrição do Desafio
