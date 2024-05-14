@@ -31,7 +31,8 @@ e ao final do código, um dashboard com os todos os gráficos requisitados.
 
 ## Como Executar
 Para executar o código fornecido neste repositório, siga as etapas abaixo:
-
+- instale um banco de dados postgres, caso tenha dúvidas na hora da instalação, siga o  tutorial: <br />
+  https://www.hashtagtreinamentos.com/instalacao-do-postgresql-sql?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeP1gfNX-TAph2zei1ItV_lEDSDa0dQ4yLpt5ZIwtg-CVw5VB6yaSmRoCMmwQAvD_BwE
 - Certifique-se de ter o Python instalado em seu ambiente. Este projeto foi desenvolvido usando Python 3.x.
 - instale o VsCode
 - instale a extenção jupyter no VScode, caso tenha dúvidas na hora da instalação, siga o tutorial: <br />
@@ -50,3 +51,4 @@ A estrutura de pastas do projeto está organizada da seguinte maneira:
 -   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
 -   `DesafioGov.ipynb`: Script que contém o código fonte do projeto.
 -   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
+-   `conexao_banco.ipynb`: Script de carragamento dos dados para um banco de dados local (postgres)
