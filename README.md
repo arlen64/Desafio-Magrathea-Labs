@@ -42,3 +42,12 @@ Para executar o código fornecido neste repositório, siga as etapas abaixo:
 Clone este repositório para o seu ambiente local.
 Instale as dependências necessárias (se houver) especificadas no arquivo requirements.txt. E
 Execute o script principal no VScode.
+
+## Estrutura de Pasta
+
+A estrutura de pastas do projeto está organizada da seguinte maneira:
+
+```bash
+-   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
+-   `DesafioGov.ipynb`: Script que contém o código fonte do projeto.
+-   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
