@@ -26,7 +26,8 @@ Links importantes:
 - [Dados de Importações](https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/IMP_COMPLETA.zip)
 
 ## Resultados
-Após a implementação da minha solução, os resultados obtidos foram a exibição dos gráficos separadamente  <br />
+Após a implementação da minha solução e carregamento dos dados conforme o script 'conexao_banco.ipynb'.<br /> 
+Os resultados relacionados ao script 'DesafioGov.ipynb' foram o tratamento dos dados e exibição dos gráficos separadamente  <br />
 e ao final do código, um dashboard com os todos os gráficos requisitados.
 
 ## Como Executar
