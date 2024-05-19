@@ -35,6 +35,8 @@ Para executar o código fornecido neste repositório, siga as etapas abaixo:
 - instale um banco de dados postgres, caso tenha dúvidas na hora da instalação, siga o  tutorial: <br />
   https://www.hashtagtreinamentos.com/instalacao-do-postgresql-sql?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeP1gfNX-TAph2zei1ItV_lEDSDa0dQ4yLpt5ZIwtg-CVw5VB6yaSmRoCMmwQAvD_BwE
 - Certifique-se de ter o Python instalado em seu ambiente. Este projeto foi desenvolvido usando Python 3.x.
+- instale o spark em sua máquina local, caso tenha dúvidas na hora da instalação, siga o tutorial: <br />
+https://bioinfo.imd.ufrn.br/transcricaoemdia/novidades/ne-017-2
 - instale o VsCode
 - instale a extenção jupyter no VScode, caso tenha dúvidas na hora da instalação, siga o tutorial: <br />
   https://www.hashtagtreinamentos.com/jupyter-notebook-no-vscode-python?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAfQpwlWm5V68Q6j09bPEJ9P8GusIoLWf8EOyFRFkb4tZjsDuJkrHBoCATsQAvD_BwE 
